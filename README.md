@@ -1,4 +1,4 @@
-# Bayesian Analysis for death record from WHO
+# Bayesian Analysis for Cardiovascular Dieases From WHO Death Record
 The purpose of this analysis will be to determine if cardiovascular disease is a more or less prevalent cause
 of death in the United States than elsewhere, that is if the proportion of deaths due to cardiovascular disease
 is greater or smaller in the US than in other countries. We are also interested in comparing death due to 
